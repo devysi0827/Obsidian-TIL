@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우선순위 큐(힙).md",
+                "file": "알고리즘.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bd6ecbf8483d31c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "우선순위 큐(힙).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "우선순위 큐(힙).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "우선순위 큐(힙).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +162,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0723aacf3e986992",
+  "active": "2bd6ecbf8483d31c",
   "lastOpenFiles": [
+    "스택.md",
+    "무제 파일.canvas",
+    "2023-10-13.md",
     "알고리즘.md",
     "우선순위 큐(힙).md",
     "ReadMe.md"
