@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘.md",
+                "file": "우선순위 큐(힙).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘.md",
+                "file": "우선순위 큐(힙).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘.md",
+                "file": "우선순위 큐(힙).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘.md"
+                "file": "우선순위 큐(힙).md"
               }
             }
           }
@@ -160,7 +160,8 @@
   },
   "active": "0723aacf3e986992",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "알고리즘.md"
+    "알고리즘.md",
+    "우선순위 큐(힙).md",
+    "ReadMe.md"
   ]
 }
